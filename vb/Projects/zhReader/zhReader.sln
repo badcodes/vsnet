@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "zhReader", "zhReader.vbproj", "{71FA028E-6914-4624-A8DB-2C0A85ADD61F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IReadingHelper", "IReadingHelper\IReadingHelper.vbproj", "{D55B46C7-9330-46DF-8DE9-AFD48265F117}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "folderReadingHelper", "folderReadinghelper\folderReadingHelper.vbproj", "{B580739D-F453-49A3-89A2-20E63B9A2CBE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "zipReadingHelper", "zipReadingHelper\zipReadingHelper.vbproj", "{6B85F752-E610-450D-970D-D924892DB6A7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MYPLACE.SHARED", "..\MYPLACE.SHARED\MYPLACE.SHARED.vbproj", "{C7A40A6D-11A4-4D18-B697-6E73D238EA21}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MYPLACE.Configuration", "..\MYPLACE.Configuration\MYPLACE.Configuration.vbproj", "{6DEC8345-4438-4CFB-91F3-3699F63DF5F0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MYPLACE.Net.Server", "..\MYPLACE Library\LibServer\MYPLACE.Net.Server.vbproj", "{9D90C230-4E6C-4715-9E48-B917F1CBE25E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FA028E-6914-4624-A8DB-2C0A85ADD61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FA028E-6914-4624-A8DB-2C0A85ADD61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FA028E-6914-4624-A8DB-2C0A85ADD61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FA028E-6914-4624-A8DB-2C0A85ADD61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55B46C7-9330-46DF-8DE9-AFD48265F117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55B46C7-9330-46DF-8DE9-AFD48265F117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55B46C7-9330-46DF-8DE9-AFD48265F117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55B46C7-9330-46DF-8DE9-AFD48265F117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B580739D-F453-49A3-89A2-20E63B9A2CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B580739D-F453-49A3-89A2-20E63B9A2CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B580739D-F453-49A3-89A2-20E63B9A2CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B580739D-F453-49A3-89A2-20E63B9A2CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B85F752-E610-450D-970D-D924892DB6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B85F752-E610-450D-970D-D924892DB6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B85F752-E610-450D-970D-D924892DB6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B85F752-E610-450D-970D-D924892DB6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A40A6D-11A4-4D18-B697-6E73D238EA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A40A6D-11A4-4D18-B697-6E73D238EA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A40A6D-11A4-4D18-B697-6E73D238EA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A40A6D-11A4-4D18-B697-6E73D238EA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEC8345-4438-4CFB-91F3-3699F63DF5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEC8345-4438-4CFB-91F3-3699F63DF5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEC8345-4438-4CFB-91F3-3699F63DF5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEC8345-4438-4CFB-91F3-3699F63DF5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D90C230-4E6C-4715-9E48-B917F1CBE25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D90C230-4E6C-4715-9E48-B917F1CBE25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D90C230-4E6C-4715-9E48-B917F1CBE25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D90C230-4E6C-4715-9E48-B917F1CBE25E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
